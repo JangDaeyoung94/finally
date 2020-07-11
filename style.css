@@ -46,10 +46,11 @@ background-repeat: none;
   font-size: 45px;
 }
 #list {
+  text-align: center;
   font-weight:normal;
   font-size: 22px;
   color: black;
-  background-image: url("./43.jpg");
+  background-image: url("./55.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
