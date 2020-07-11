@@ -46,7 +46,15 @@ background-repeat: none;
   font-size: 45px;
 }
 #list {
+  font-weight:normal;
   font-size: 22px;
+  color: black;
+  background-image: url("./43.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 #grid{
   display: grid;
