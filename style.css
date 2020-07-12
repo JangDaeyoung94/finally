@@ -46,13 +46,13 @@ background-repeat: none;
   font-size: 45px;
 }
 #list {
-  text-align: center;
+  text-align: left;
   font-weight:bold;
   font-size: 22px;
   color: black;
   background-image: url("./76.jpg");
   background-attachment: fixed;
-  background-position: left;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 
